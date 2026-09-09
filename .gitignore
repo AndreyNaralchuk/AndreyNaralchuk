@@ -1,0 +1,5 @@
+# Local working files — do not publish
+PROFILE_QUESTIONS.md
+backups/
+claude_console_log/
+*_claude_changes.MD
